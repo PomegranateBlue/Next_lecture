@@ -3,7 +3,7 @@ export default async function Home() {
 
   return (
     <div>
-      <h1>Start of Next.js </h1>
+      <h1>Sparta shop</h1>
       <ProductList/>
     </div>
   );
